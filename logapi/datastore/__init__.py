@@ -1,0 +1,10 @@
+UID = "uid"
+TS = "ts"
+OFFSET = "offset"
+ENTRY = "entry"
+METHOD = "method"
+URL = "url"
+EVENTS = "events"
+MAX_BLOCK_SIZE = 50
+LEFT_WINDOW_SIZE = 5
+RIGHT_WINDOW_SIZE = 5
